@@ -38,13 +38,13 @@ End-to-end secure pipeline on a 3-VM isolated lab: Terraform + Ansible IaC, 7-st
 
 `Terraform` `Ansible` `GitLab CI/CD` `K3s` `Wazuh` `OpenSearch` `Semgrep` `Trivy` `MITRE ATT&CK`
 
-### 🧪 [Software Supply Chain Attack Simulation](https://github.com/Mohamedniane) · Offensive research
+### 🧪 [Software Supply Chain Attack Simulation](https://github.com/Mohamedniane/supply-chain-attack-simulation) · Offensive research
 
 Controlled PoC demonstrating Python typosquatting attacks (SolarWinds / XZ Utils / npm event-stream patterns). Includes a layered mitigation playbook: Sigstore/Cosign, SBOM, internal mirrors, SLSA compliance. Educational purpose, lab-only, with clear ethical disclaimer.
 
 `Python` `socket programming` `setuptools` `MITRE ATT&CK T1195`
 
-### 🎯 [CVE-2025-55182 Analysis — React RSC RCE](https://github.com/Mohamedniane) · Vulnerability research
+### 🎯 [CVE-2025-55182 Analysis — React RSC RCE](https://github.com/Mohamedniane/cve-2025-55182-analysis) · Vulnerability research
 
 Full exploitation chain of a critical (CVSS 10.0) insecure deserialization vulnerability from reconnaissance to unauthenticated RCE and reverse shell. Delivered structured security report with business impact, OWASP Top 10 mapping, and tiered remediation roadmap.
 
