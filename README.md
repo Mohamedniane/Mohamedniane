@@ -1,68 +1,83 @@
-# Hi, I'm Niane Mohamed 👋
+<h1 align="center">Niane Mohamed</h1>
 
-**Cybersecurity & Network Engineer** based in Nouakchott, Mauritania 🇲🇷
-Passionate about securing enterprise infrastructure and building DevSecOps pipelines.
+<p align="center">
+  <strong>Network &amp; Security Engineer</strong> · DevSecOps · SOC
+</p>
 
-🎓 MSc in Cybersecurity (Expected 2026) — Central University of Tunis
-🌍 Open to international opportunities — Germany 🇩🇪 · Canada 🇨🇦
-💼 Currently: IT Networks & Systems Engineer @ ACINVEST
-
----
-
-## 🛠️ Technical Expertise
-
-**Network Security**
-FortiGate · Palo Alto · Cisco CCNA · VPN · IDS/IPS · VLAN · OSPF · BGP · ACL
-
-**SOC & Monitoring**
-Wazuh · ELK Stack · Zabbix · Grafana · SNORT · Nagios
-
-**Offensive Security**
-OWASP ZAP · Burp Suite · Nessus · Nmap · Wireshark · SAST/DAST · CVE Analysis
-
-**DevSecOps**
-GitLab CI/CD · Docker · Kubernetes · Terraform · Ansible · Semgrep · Trivy · GitLeaks
-
-**Cloud Security**
-AWS (IAM · VPC · Security Groups · CloudTrail · CloudWatch)
-
-**Systems**
-Linux (LPIC 1-2-3) · Windows Server 2019 · VMware ESXi · Hyper-V
+<p align="center">
+  <a href="https://linkedin.com/in/muhammed-niane">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:muhammedniane@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <img alt="Location" src="https://img.shields.io/badge/Based_in-Nouakchott_🇲🇷-555?style=flat-square">
+  <img alt="Open to" src="https://img.shields.io/badge/Open_to-Germany_🇩🇪-1F3A5F?style=flat-square">
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 🔒 [DevSecOps CI/CD Security Pipeline](https://github.com/Mohamedniane/devsecops-cicd-pipeline)
-End-to-end secure pipeline with GitLab CE + Docker Runner, integrating SAST (Semgrep), DAST (OWASP ZAP), container scanning (Trivy), and centralized SIEM (Wazuh + ELK).
-`Terraform` `Ansible` `GitLab CI` `Docker` `Wazuh`
+5+ years in production securing enterprise infrastructure across 7+ sites and 150+ users. I live at the intersection of network engineering (FortiGate, Palo Alto, Cisco MPLS) and security operations (DevSecOps pipelines, SIEM, vulnerability management). Currently finishing a Master's in Cybersecurity with a thesis on secure CI/CD pipelines with Kubernetes and Wazuh SIEM.
 
-### 🕵️ [Web App Vulnerability Analysis — CVE-2025-55182](https://github.com/Mohamedniane/cve-2025-55182-analysis)
-Security analysis and exploitation of a React vulnerability using OWASP ZAP, with full CVSS assessment and OWASP Top 10 remediation roadmap.
-`OWASP ZAP` `Burp Suite` `CVSS` `React Security`
+Measurable outcomes from my work so far: **80% reduction in unauthorized access incidents**, **99.5% datacenter uptime**, **40% MTTR improvement**.
 
-### ⚠️ [Software Supply Chain Attack Simulation](https://github.com/Mohamedniane/supply-chain-attack-simulation)
-Offensive security research demonstrating CI/CD propagation risks through a malicious Python package with backdoor payload.
-`Python` `CI/CD Security` `Threat Modeling`
+## Currently
 
----
+- 🎓 Finishing **Master's in Cybersecurity** at Central University of Tunis — defense July 2026
+- 🛠️ Building a **DevSecOps thesis project** (K3s + Wazuh + scoring-based Security Gate) — see pinned repos
+- 🇩🇪 **Seeking Security / DevSecOps / SOC Engineer roles in Germany** — EU Blue Card eligible, visa sponsorship welcome, available from July 2026
+- 🗣️ Learning German (A1 → B1 target) · already fluent in Arabic (native), French (C1), English (B2)
 
-## 📊 Professional Impact
+## Featured projects
 
-- 🛡️ Reduced unauthorized access incidents by **~80%** through FortiGate deployment
-- 📈 Maintained **99.5% uptime** for 150+ users in production datacenter
-- ⚡ Cut **MTTR by 40%** via Zabbix/Grafana monitoring stack
-- 🌐 Designed **7-site WAN** architecture (MPLS/BLR) with FortiGate Security
-- 🏦 Managed branch networks for Attijari Bank & BMCI across **30+ sites**
+### 🔐 [DevSecOps CI/CD Pipeline with K3s & Wazuh SIEM](https://github.com/Mohamedniane) · Master Thesis
 
----
+End-to-end secure pipeline on a 3-VM isolated lab: Terraform + Ansible IaC, 7-stage GitLab pipeline (GitLeaks → Semgrep → pip-audit → Trivy → **custom scoring-based Security Gate** → kubectl apply + DAST), K3s cluster with rolling updates, and centralized Wazuh SIEM with MITRE ATT&CK correlation rules.
 
-## 📫 Let's Connect
+`Terraform` `Ansible` `GitLab CI/CD` `K3s` `Wazuh` `OpenSearch` `Semgrep` `Trivy` `MITRE ATT&CK`
 
-- 💼 **LinkedIn:** [linkedin.com/in/muhammed-niane](https://linkedin.com/in/muhammed-niane)
-- ✉️ **Email:** muhammedniane@gmail.com
-- 📍 **Location:** Nouakchott, Mauritania (Open to relocation)
+### 🧪 [Software Supply Chain Attack Simulation](https://github.com/Mohamedniane) · Offensive research
 
----
+Controlled PoC demonstrating Python typosquatting attacks (SolarWinds / XZ Utils / npm event-stream patterns). Includes a layered mitigation playbook: Sigstore/Cosign, SBOM, internal mirrors, SLSA compliance. Educational purpose, lab-only, with clear ethical disclaimer.
 
-*"Security is a process, not a product." — Bruce Schneier*
+`Python` `socket programming` `setuptools` `MITRE ATT&CK T1195`
+
+### 🎯 [CVE-2025-55182 Analysis — React RSC RCE](https://github.com/Mohamedniane) · Vulnerability research
+
+Full exploitation chain of a critical (CVSS 10.0) insecure deserialization vulnerability from reconnaissance to unauthenticated RCE and reverse shell. Delivered structured security report with business impact, OWASP Top 10 mapping, and tiered remediation roadmap.
+
+`Kali Linux` `nmap` `curl` `OWASP ZAP` `CVSS v3.1`
+
+## Tech I work with
+
+**Network security** — FortiGate · Palo Alto · Cisco (CCNA 1-3) · VPN · IDS/IPS · VLAN · OSPF · BGP · MPLS
+
+**SOC & SIEM** — Wazuh · OpenSearch · ELK Stack · Zabbix · Grafana · MITRE ATT&CK
+
+**DevSecOps** — GitLab CI/CD · Docker · Kubernetes (K3s) · Terraform · Ansible · Trivy · Semgrep · GitLeaks · pip-audit
+
+**Offensive security** — OWASP ZAP · Burp Suite · Nessus · Nmap · Wireshark · Metasploit
+
+**Cloud & systems** — AWS (EC2, S3, IAM, VPC, CloudTrail) · Linux (LPIC 1-3) · Windows Server 2019 (AD, GPO) · VMware
+
+**Scripting** — Python · Bash · YAML · JSON
+
+## Frameworks & compliance
+
+ISO/IEC 27001, 27002, 27005 · OWASP Top 10 · NIST CSF & SSDF · MITRE ATT&CK · GDPR / DSGVO · Incident response playbooks
+
+## Certifications
+
+Fortinet NSE 1-2-3 · FortiGate 6.4 & 7.4 · Palo Alto Cybersecurity Foundation · Cisco CCNA 1-2-3 · AWS Academy Cloud Architecting · CEH v11 · WAHS · ISC² CISSP (CPE Credits) · Linux LPIC 1-2-3
+
+## Let's connect
+
+Looking for roles in **Security Engineering**, **DevSecOps**, **SOC Analyst (L2/L3)**, or **Cloud Security** — especially in Germany 🇩🇪 (Berlin, Munich, Frankfurt, Hamburg, Stuttgart) but open to the wider DACH region.
+
+- 📧 **Email** — muhammedniane@gmail.com
+- 💼 **LinkedIn** — [linkedin.com/in/muhammed-niane](https://linkedin.com/in/muhammed-niane)
+- 📄 **CV** — available on request
+
+If you're hiring and think my profile could fit, feel free to reach out directly. I respond within 24 hours.
