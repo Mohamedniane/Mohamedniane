@@ -32,7 +32,7 @@ Measurable outcomes from my work so far: **80% reduction in unauthorized access 
 
 ## Featured projects
 
-### 🔐 [DevSecOps CI/CD Pipeline with K3s & Wazuh SIEM](https://github.com/Mohamedniane) · Master Thesis
+### 🔐 [DevSecOps CI/CD Pipeline with K3s & Wazuh SIEM](https://github.com/Mohamedniane/devsecops-cicd-pipeline) · Master Thesis
 
 End-to-end secure pipeline on a 3-VM isolated lab: Terraform + Ansible IaC, 7-stage GitLab pipeline (GitLeaks → Semgrep → pip-audit → Trivy → **custom scoring-based Security Gate** → kubectl apply + DAST), K3s cluster with rolling updates, and centralized Wazuh SIEM with MITRE ATT&CK correlation rules.
 
