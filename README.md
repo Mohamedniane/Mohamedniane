@@ -28,7 +28,7 @@ Measurable outcomes from my work so far: **80% reduction in unauthorized access 
 - 🎓 Finishing **Master's in Cybersecurity** at Central University of Tunis — defense July 2026
 - 🛠️ Building a **DevSecOps thesis project** (K3s + Wazuh + scoring-based Security Gate) — see pinned repos
 - 🇩🇪 **Seeking Security / DevSecOps / SOC Engineer roles in Germany** — EU Blue Card eligible, visa sponsorship welcome, available from July 2026
-- 🗣️ Learning German (A1 → B1 target) · already fluent in Arabic (native), French (C1), English (B2)
+- 🗣️ Learning German (A1 → In progress) · already fluent in Arabic (native), French (C1), English (B2)
 
 ## Featured projects
 
