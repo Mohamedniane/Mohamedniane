@@ -26,17 +26,17 @@ Measurable outcomes from my work so far: **80% reduction in unauthorized access 
 ## Currently
 
 - 🎓 Finishing **Master's in Cybersecurity** at Central University of Tunis — defense July 2026
-- 🛠️ Building a **DevSecOps thesis project** (K3s + Wazuh + scoring-based Security Gate) — see pinned repos
+- 🛠️ Building a **DevSecOps thesis project** (Docker + Wazuh + scoring-based Security Gate) — see pinned repos
 - 🇩🇪 **Seeking Security / DevSecOps / SOC Engineer roles in Germany** — EU Blue Card eligible, visa sponsorship welcome, available from July 2026
 - 🗣️ Learning German (A1 → In progress) · already fluent in Arabic (native), French (C1), English (B2)
 
 ## Featured projects
 
-### 🔐 [DevSecOps CI/CD Pipeline with K3s & Wazuh SIEM](https://github.com/Mohamedniane/devsecops-cicd-pipeline) · Master Thesis
+### 🔐 [DevSecOps CI/CD Pipeline with Docker & Wazuh SIEM](https://github.com/Mohamedniane/devsecops-cicd-pipeline) · Master Thesis
 
-End-to-end secure pipeline on a 3-VM isolated lab: Terraform + Ansible IaC, 7-stage GitLab pipeline (GitLeaks → Semgrep → pip-audit → Trivy → **custom scoring-based Security Gate** → kubectl apply + DAST), K3s cluster with rolling updates, and centralized Wazuh SIEM with MITRE ATT&CK correlation rules.
+End-to-end secure pipeline on a 3-VM isolated lab: Terraform + Ansible IaC, 7-stage GitLab pipeline (GitLeaks → Semgrep → pip-audit → Trivy → **custom scoring-based Security Gate** → DAST + Docker Runner for automated deployment), and centralized Wazuh SIEM with MITRE ATT&CK correlation rules.
 
-`Terraform` `Ansible` `GitLab CI/CD` `K3s` `Wazuh` `OpenSearch` `Semgrep` `Trivy` `MITRE ATT&CK`
+`Terraform` `Ansible` `GitLab CI/CD` `Docker` `Wazuh` `OpenSearch` `Semgrep` `Trivy` `MITRE ATT&CK`
 
 ### 🧪 [Software Supply Chain Attack Simulation](https://github.com/Mohamedniane/supply-chain-attack-simulation) · Offensive research
 
