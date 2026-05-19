@@ -62,7 +62,7 @@ Full exploitation chain of a critical (CVSS 10.0) insecure deserialization vulne
 
 **Cloud & systems** — AWS (EC2, S3, IAM, VPC, CloudTrail) · Linux (LPIC 1-3) · Windows Server 2019 (AD, GPO) · VMware
 
-**Scripting** — Python · Bash · YAML · JSON
+**Scripting** — Python · Bash · YAML · JSON · JavaScript · TypeScript
 
 ## Frameworks & compliance
 
@@ -74,7 +74,7 @@ Fortinet NSE 1-2-3 · FortiGate 6.4 & 7.4 · Palo Alto Cybersecurity Foundation 
 
 ## Let's connect
 
-Looking for roles in **Security Engineering**, **DevSecOps**, **SOC Analyst (L2/L3)**, or **Cloud Security** — especially in Germany 🇩🇪 (Berlin, Munich, Frankfurt, Hamburg, Stuttgart) but open to the wider DACH region.
+Looking for roles in **Security Engineering**, **DevSecOps**, **SOC Analyst (L2/L3)**, or **Cloud Security** — especially in Germany 🇩🇪 and USA
 
 - 📧 **Email** — muhammedniane@gmail.com
 - 💼 **LinkedIn** — [linkedin.com/in/muhammed-niane](https://linkedin.com/in/muhammed-niane)
