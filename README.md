@@ -12,29 +12,29 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <img alt="Location" src="https://img.shields.io/badge/Based_in-Nouakchott_🇲🇷-555?style=flat-square">
-  <img alt="Open to" src="https://img.shields.io/badge/Open_to-Germany_🇩🇪-1F3A5F?style=flat-square">
+  <img alt="Open to" src="https://img.shields.io/badge/Open_to-Germany_🇩🇪_·_Canada_🇨🇦-1F3A5F?style=flat-square">
 </p>
 
 ---
 
 ## About
 
-5+ years in production securing enterprise infrastructure across 7+ sites and 150+ users. I live at the intersection of network engineering (FortiGate, Palo Alto, Cisco MPLS) and security operations (DevSecOps pipelines, SIEM, vulnerability management). Currently finishing a Master's in Cybersecurity with a thesis on secure CI/CD pipelines with Kubernetes and Wazuh SIEM.
+5+ years in production securing enterprise infrastructure across 7+ sites and 150+ users. I live at the intersection of network engineering (FortiGate, Palo Alto, Cisco MPLS) and security operations (DevSecOps pipelines, SIEM, vulnerability management). MSc in Cybersecurity (Mention Très Bien), with a thesis on a DevSecOps CI/CD pipeline with Docker and Wazuh SIEM, validated against 8 attack scenarios mapped to MITRE ATT&CK.
 
 Measurable outcomes from my work so far: **80% reduction in unauthorized access incidents**, **99.5% datacenter uptime**, **40% MTTR improvement**.
 
 ## Currently
 
-- 🎓 Finishing **Master's in Cybersecurity** at Central University of Tunis — defense July 2026
-- 🛠️ Building a **DevSecOps thesis project** (Docker + Wazuh + scoring-based Security Gate) — see pinned repos
-- 🇩🇪 **Seeking Security / DevSecOps / SOC Engineer roles in Germany** — EU Blue Card eligible, visa sponsorship welcome, available from July 2026
+- 🎓 **MSc in Cybersecurity — Mention Très Bien** (highest distinction) · École Centrale Supérieure Polytechnique Privée de Tunis (Université Centrale) · defended October 2026
+- 🛠️ Thesis project documented and being open-sourced — see [devsecops-cicd-pipeline](https://github.com/Mohamedniane/devsecops-cicd-pipeline)
+- 🌍 **Seeking Security / DevSecOps / SOC Engineer roles in Germany 🇩🇪 and Canada 🇨🇦** — EU Blue Card eligible, visa sponsorship welcome
 - 🗣️ Learning German (A1 → In progress) · already fluent in Arabic (native), French (C1), English (B2)
 
 ## Featured projects
 
 ### 🔐 [DevSecOps CI/CD Pipeline with Docker & Wazuh SIEM](https://github.com/Mohamedniane/devsecops-cicd-pipeline) · Master Thesis
 
-End-to-end secure pipeline on a 3-VM isolated lab: Terraform + Ansible IaC, 7-stage GitLab pipeline (GitLeaks → Semgrep → pip-audit → Trivy → **custom scoring-based Security Gate** → DAST + Docker Runner for automated deployment), and centralized Wazuh SIEM with MITRE ATT&CK correlation rules.
+End-to-end DevSecOps platform on a 4-VM isolated lab: Terraform + Ansible IaC, 7-stage GitLab pipeline (GitLeaks → Semgrep + pip-audit → Docker build → Trivy → **custom scoring-based Security Gate** → DAST smoke tests → SSH deployment), and Wazuh SIEM with custom MITRE ATT&CK detection rules. Validated against **8 attack scenarios** covering 7 MITRE techniques. Defended with Mention Très Bien.
 
 `Terraform` `Ansible` `GitLab CI/CD` `Docker` `Wazuh` `OpenSearch` `Semgrep` `Trivy` `MITRE ATT&CK`
 
@@ -68,13 +68,15 @@ Full exploitation chain of a critical (CVSS 10.0) insecure deserialization vulne
 
 ISO/IEC 27001, 27002, 27005 · OWASP Top 10 · NIST CSF & SSDF · MITRE ATT&CK · GDPR / DSGVO · Incident response playbooks
 
-## Certifications
+## Certifications & training
 
-Fortinet NSE 1-2-3 · FortiGate 6.4 & 7.4 · Palo Alto Cybersecurity Foundation · Cisco CCNA 1-2-3 · AWS Academy Cloud Architecting · CEH v11 · WAHS · ISC² CISSP (CPE Credits) · Linux LPIC 1-2-3
+**Certifications** — Fortinet NSE 1-2-3 · Palo Alto Cybersecurity Foundation · AWS Academy Cloud Architecting · WAHS (Web App Hacking & Security)
+
+**Training completed** — FortiGate 6.4 & 7.4 · Cisco Networking Academy (CCNA 1-2-3 modules) · CEH v11 · ISC² CISSP (CPE credits) · Linux LPIC 1-2-3
 
 ## Let's connect
 
-Looking for roles in **Security Engineering**, **DevSecOps**, **SOC Analyst (L2/L3)**, or **Cloud Security** — especially in Germany 🇩🇪 and USA
+Looking for roles in **Security Engineering**, **DevSecOps**, **SOC Analyst (L2/L3)**, or **Cloud Security** — especially in Germany 🇩🇪 and Canada 🇨🇦, or remote
 
 - 📧 **Email** — muhammedniane@gmail.com
 - 💼 **LinkedIn** — [linkedin.com/in/muhammed-niane](https://linkedin.com/in/muhammed-niane)
