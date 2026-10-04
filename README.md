@@ -19,7 +19,7 @@
 
 ## About
 
-5+ years in production securing enterprise infrastructure across 7+ sites and 150+ users. I live at the intersection of network engineering (FortiGate, Palo Alto, Cisco MPLS) and security operations (DevSecOps pipelines, SIEM, vulnerability management). MSc in Cybersecurity (Mention Très Bien), with a thesis on a DevSecOps CI/CD pipeline with Docker and Wazuh SIEM, validated against 8 attack scenarios mapped to MITRE ATT&CK.
+6+ years in production securing enterprise infrastructure across 7+ sites and 150+ users. I live at the intersection of network engineering (FortiGate, Palo Alto, Cisco MPLS) and security operations (DevSecOps pipelines, SIEM, vulnerability management). MSc in Cybersecurity (Mention Très Bien), with a thesis on a DevSecOps CI/CD pipeline with Docker and Wazuh SIEM, validated against 8 attack scenarios mapped to MITRE ATT&CK.
 
 Measurable outcomes from my work so far: **80% reduction in unauthorized access incidents**, **99.5% datacenter uptime**, **40% MTTR improvement**.
 
