@@ -12,7 +12,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <img alt="Location" src="https://img.shields.io/badge/Based_in-Nouakchott_🇲🇷-555?style=flat-square">
-  <img alt="Open to" src="https://img.shields.io/badge/Open_to-Germany_🇩🇪_·_Canada_🇨🇦-1F3A5F?style=flat-square">
+  <img alt="Open to" src="https://img.shields.io/badge/Open_to-Canada_🇨🇦-1F3A5F?style=flat-square">
 </p>
 
 ---
@@ -27,8 +27,8 @@ Measurable outcomes from my work so far: **80% reduction in unauthorized access 
 
 - 🎓 **MSc in Cybersecurity — Mention Très Bien** (highest distinction) · École Centrale Supérieure Polytechnique Privée de Tunis (Université Centrale) · defended October 2026
 - 🛠️ Thesis project documented and being open-sourced — see [devsecops-cicd-pipeline](https://github.com/Mohamedniane/devsecops-cicd-pipeline)
-- 🌍 **Seeking Security / DevSecOps / SOC Engineer roles in Germany 🇩🇪 and Canada 🇨🇦** — EU Blue Card eligible, visa sponsorship welcome
-- 🗣️ Learning German (A1 → In progress) · already fluent in Arabic (native), French (C1), English (B2)
+- 🇨🇦 **Seeking Security / DevSecOps / SOC Engineer roles in Canada** — bilingual French / English, planning relocation through Express Entry
+- 🗣️ Arabic (native) · French (C1) · English (B2)
 
 ## Featured projects
 
@@ -76,7 +76,7 @@ ISO/IEC 27001, 27002, 27005 · OWASP Top 10 · NIST CSF & SSDF · MITRE ATT&CK �
 
 ## Let's connect
 
-Looking for roles in **Security Engineering**, **DevSecOps**, **SOC Analyst (L2/L3)**, or **Cloud Security** — especially in Germany 🇩🇪 and Canada 🇨🇦, or remote
+Looking for roles in **Security Engineering**, **DevSecOps**, **SOC Analyst (L2/L3)**, or **Cloud Security** — especially in Canada 🇨🇦, or remote
 
 - 📧 **Email** — muhammedniane@gmail.com
 - 💼 **LinkedIn** — [linkedin.com/in/muhammed-niane](https://linkedin.com/in/muhammed-niane)
